@@ -10,7 +10,4 @@ Father of Isaac, and husband of my wife Paula. Colombian living in Switzerland
   - Semiconductor physics
   - Gas chromatography
   - Data visualization
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maasencioh&theme=onedark&show_icons=true" alt="maasencio stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maasencioh&layout=compact&theme=onedark" alt="maasencio langs" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=maasencioh&theme=onedark" alt="maasencio archivements" />
