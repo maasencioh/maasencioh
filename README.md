@@ -1,5 +1,5 @@
 ### Hi, I'm Miguel 👋
-Father of 2 🍼. Colombian living in Switzerland
+Father of 3 🍼. Colombian living in Switzerland
 - 🔭 I’m currently working as software developer at Powerlab (EPFL), previously at [@resuelve](https://github.com/resuelve) and [@cheminfo](https://github.com/cheminfo)
 - 🌱 I’m currently learning machine learning on tensorflow
 - 👯 I’m looking to collaborate on machine learning projects
